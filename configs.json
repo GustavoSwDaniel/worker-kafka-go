@@ -1,0 +1,6 @@
+{
+    "kafka_brokers": ["**"],
+    "kafka_topic": "meu-topico",
+    "http_url": "https://exemplo.com/requisicao",
+    "interval_minutes": 15
+  }
